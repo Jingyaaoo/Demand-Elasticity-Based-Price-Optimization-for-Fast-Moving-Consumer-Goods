@@ -408,13 +408,8 @@ def visualize_change_pct(change_percent):
 # ------------------------------------------------------------------------------------------------------
 #                                   Main Page and Sidebar Configuration
 # ------------------------------------------------------------------------------------------------------
-# st.write("2277 (UPSCALE), 15755 (VALUE), 25253 (MAINSTREAM)")
-# st.title('Demand Elasticity-Based Price Optimization System for Fast-Moving Consumer Goods (FMCG) 💲')
-#-----------------------------------  Main Page --------------------------------------------------------
-st.markdown("<p style='font-size: smaller; font-style: italic;'>Created by: Yap Jing Yao | TP061052 | Asia Pacific University</p>",
-             unsafe_allow_html=True)
-st.markdown("<br>", unsafe_allow_html=True)
 
+#-----------------------------------  Main Page --------------------------------------------------------
 st.title('Pricing Desision Support System for Fast-Moving Consumer Goods (FMCG) 💲')
 st.markdown("<br>", unsafe_allow_html=True)
 st.header("About the App")
